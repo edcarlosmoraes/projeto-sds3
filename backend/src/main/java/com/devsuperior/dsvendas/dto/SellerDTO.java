@@ -4,9 +4,6 @@ import java.io.Serializable;
 
 import com.devsuperior.dsvendas.entities.Seller;
 
-import lombok.Data;
-
-@Data
 public class SellerDTO implements Serializable {
 
 	private static final long serialVersionUID = 1L;
